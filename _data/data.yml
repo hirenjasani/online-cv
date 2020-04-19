@@ -25,23 +25,20 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: Gujarati
-        level: Native
+      - idiom: English
+        level: Professional
 
       - idiom: Hindi
         level: Professional
-
-      - idiom: English
-        level: Professional
+        
+      - idiom: Gujarati
+        level: Native
 
     interests:
       - item: Movies
         link:
 
       - item: Game
-        link:
-
-      - item: 
         link:
 
 career-profile:
